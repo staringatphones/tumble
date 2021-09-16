@@ -8,15 +8,17 @@
 
 ### I want to meet people in <u>Atlanta, GA</u>
 
-### Some other things about me!
+### Reglion: 
+Christian/Jesus Follower
 
-#### Reglion: Christian/Jesus Follower
+### Education: 
+Kennesaw State -> Georgia Tech
 
-#### Education: Kennesaw State -> Georgia Tech
+### Career: 
+Electrical Engineer
 
-#### Career: Electrical Engineer
-
-#### Dog or Cat person?: Both! But I’m more allergic to dogs :(
+### Dog or Cat person?
+Both! But I’m more allergic to dogs :(
 
 ![cat](nick_cat.jpeg)
 
