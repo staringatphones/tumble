@@ -2,11 +2,11 @@
 
 ![main](nick_main.jpeg)
 
-### I am a <u>_ guy _ </u> looking to meet <u> _ girls _</u>.
+### I am a <u>guy</u> looking to meet <u>girls</u>.
 
-### I am <u>_ 24 _ </u> looking to meet others who are <u>_ 22-28 _ </u>.
+### I am <u>24</u> looking to meet others who are <u>22-28</u>.
 
-### I want to meet people in <u>_ Atlanta, GA _ </u>
+### I want to meet people in <u>Atlanta, GA</u>
 
 ### Some other things about me!
 
@@ -38,6 +38,6 @@ Europe! I want to go on a Mediterranean cruise and see France, Italy, and maybe 
 
 Right now, mostly just looking for an exclusive friend to go on dates with and snuggle with. After that, well, I hope it leads to a real relationship. I want to get married and have kids one day, and maybe that could be with you!
 
-[<-- Swipe left (reject)]()
+#### [<-- Swipe left (reject)]()
 
-[Swipe Right (match!) -->]()
+#### [Swipe Right (match!) -->](match.md)
