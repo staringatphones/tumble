@@ -40,6 +40,6 @@ Europe! I want to go on a Mediterranean cruise and see France, Italy, and maybe 
 
 Right now, mostly just looking for an exclusive friend to go on dates with and snuggle with. After that, well, I hope it leads to a real relationship. I want to get married and have kids one day, and maybe that could be with you!
 
-#### [<-- Swipe left (reject)]()
+## [<-- Swipe left (reject)]()
 
-#### [Swipe Right (match!) -->](match.md)
+## [Swipe Right (match!) -->](match.md)
